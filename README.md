@@ -44,6 +44,12 @@ On Linux/MacOS X, after download the respective driver, you'll need to update 't
 python webscraping.py
 ```
 
+## Running the tests (with unittest)
+
+```
+python testcase/test_page.py
+```
+
 ## Contributing
 
 Feel free to submitting pull requests.
